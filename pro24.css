@@ -124,3 +124,12 @@ body {
     padding-top: 80px;
   }
 }
+
+@media (max-width: 450px) {
+  .container {
+    padding-top: 200px;
+    row-gap: 7rem;
+  }
+}
+
+
