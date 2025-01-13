@@ -5,8 +5,8 @@
 }
 
 ::selection {
-  color: hsl(0, 0%, 15%);
-  background: hsl(239, 100%, 86%);
+  color: white;
+  background: #FC043C;
 }
 
 html {
